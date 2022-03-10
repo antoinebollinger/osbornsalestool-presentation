@@ -9,10 +9,6 @@
 
   <p align="center">
     An app that helps sales reps in their daily work with customers.
-    <br />
-    <a href="https://github.com/antoinebollinger/osborn-app/issues">🐛 Report Bug</a>
-    ·
-    <a href="https://github.com/antoinebollinger/osborn-app/issues">Request Feature 🌟</a>
   </p>
 </p>
 
