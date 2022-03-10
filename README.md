@@ -129,7 +129,7 @@ We started to developp a flexible and user-friendly tool, based on what the peop
 | *When a category is selected, you have access to all the products in it...* | *... and then you can filter by the dimensions you want (diameter, thickness, material, etc.).* |
 | ![Product infos](public/overview/products_infos_1.jpg) | ![Product history](public/overview/products_infos_2.jpg) | 
 | *For each product you can find the detailed information...* | *... and also information about the sales for this product.* |
-| ![Data sheet](public/overview/product_data_sheet.jpg) | ![Range data sheet](public/overview/product_product/sheet/range.jpg) | 
+| ![Data sheet](public/overview/product_data_sheet.jpg) | ![Range data sheet](public/overview/product_data_sheet_range.jpg) | 
 | *Product Specific product range of standard and on-demand possibilities.* | *Product data sheet giving all necessary information to the customer for a safe and efficient use.* |
 
 ### Customer
