@@ -59,7 +59,7 @@
 ✔️ Powerful but uneasy to handle: not user-friendly\
 ✔️ Very well made for ERP and financial planning and control\
 ❌ Fantastic for office based people BUT not for all field sales oriented\
-❌ Very expensive licenses: no axccuss to fiel sales guys\
+❌ Very expensive licenses: no access to fiel sales guys\
 ❌ Everything must be prepared by the back-office before and managed with back-office afterwards
 
 **Conclusion**\
